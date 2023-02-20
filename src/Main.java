@@ -104,7 +104,6 @@ public class Main {
         for (int i = 1; i <=10; i = i + 1){
             int number = 2 * i;
             System.out.println(number);
-
         }
     }
 }

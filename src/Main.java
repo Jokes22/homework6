@@ -53,7 +53,7 @@ public class Main {
     public static void task5() {
         System.out.println("Задача 5");
         for (int year = 1904; year <= 2096; year = year + 4) {
-            System.out.println("Високосный год " + year);
+            System.out.println(year + " год является високосным");
         }
 
     }
